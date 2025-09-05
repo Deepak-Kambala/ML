@@ -13,3 +13,5 @@ y → 1D (Series/array) → dependent variable (target)
 Linear Regression Single Variable - canada per capita income.csv
 
 Experience-Salary Linear Regression - Experience-Salary.csv
+
+Linear Regression Multivariate 1 - homeprices.csv
