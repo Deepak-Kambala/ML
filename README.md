@@ -27,3 +27,5 @@ Gradient Descent Exercise - test_scores.csv
 **One Hot Encoding**
 
 one_hot_encoding.ipynb - homeprices_dummy_variable_concept.csv
+
+exercise_one_hot_encoding.ipynb - carprices.csv
