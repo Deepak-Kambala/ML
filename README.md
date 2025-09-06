@@ -21,3 +21,5 @@ Linear Regression Multivariate 2 - hiring.csv
 **Gradient Descent**
 
 Gradient Descent - no dataset file needed
+
+Gradient Descent Exercise - test_scores.csv
