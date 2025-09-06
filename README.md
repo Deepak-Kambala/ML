@@ -17,3 +17,7 @@ Experience-Salary Linear Regression - Experience-Salary.csv
 Linear Regression Multivariate 1 - homeprices.csv
 
 Linear Regression Multivariate 2 - hiring.csv
+
+**Gradient Descent**
+
+Gradient Descent - no dataset file needed
